@@ -2,9 +2,7 @@
 <h3 align="center">As a Beginner Developer, I have foundational skills in various programming languages and am continuously improving my expertise. With a positive attitude and a growth mindset, I am ready to enhance my skills, contribute meaningfully, and achieve great things in the tech industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrishal1105&label=Profile%20views&color=0e75b6&style=flat" alt="thrishal1105" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thrishal1105" alt="thrishal1105" /></a> </p>
-
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🌱 I’m currently learning **Backend & AI**
 
 - 🤝 I’m looking for help with **Web Development**
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharshanoj thrishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharshanoj thrishal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharshanoj-thrishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharshanoj-thrishal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dharshanoj_thrishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharshanoj_thrishal" height="30" width="40" /></a>
 </p>
 
@@ -27,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thrishal1105&show_icons=true&locale=en&layout=compact" alt="thrishal1105" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thrishal1105&show_icons=true&locale=en" alt="thrishal1105" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thrishal1105&" alt="thrishal1105" /></p>
