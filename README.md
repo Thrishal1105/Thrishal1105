@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dharshanoj-thrishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dharshanoj-thrishal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharshanoj thrishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharshanoj thrishal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dharshanoj_thrishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharshanoj_thrishal" height="30" width="40" /></a>
 </p>
 
