@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharshanoj Thrishal</h1>
-<h3 align="center">As a Beginner Developer, I have foundational skills in various programming languages and am continuously improving my expertise. With a positive attitude and a growth mindset, I am ready to enhance my skills, contribute meaningfully, and achieve great things in the tech industry.</h3>
+<h3 align="center">I’m a final-year B.Tech student with a growing passion for data analysis and a good foundation in Python and MySQL. I thrive on uncovering insights from data and transforming raw information into meaningful stories that drive smarter decisions.
+
+With hands-on experience in data cleaning, visualization, and basic statistical analysis, I’m eager to deepen my expertise in solving real-world problems through data. I’ve also explored how AI can streamline workflows and enhance analytical efficiency—fueling my curiosity to build scalable, impact-driven solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrishal1105&label=Profile%20views&color=0e75b6&style=flat" alt="thrishal1105" /> </p>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
