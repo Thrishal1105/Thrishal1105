@@ -9,7 +9,7 @@ With hands-on experience in data cleaning, visualization, and basic statistical 
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-beta-rouge-70.vercel.app/](https://my-portfolio-beta-rouge-70.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dharshanoj-thrishal-portfolio.vercel.app/](https://dharshanoj-thrishal-portfolio.vercel.app/)
 
 - 💬 Ask me about **Frontend Development**
 
