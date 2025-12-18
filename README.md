@@ -11,8 +11,6 @@ With hands-on experience in data cleaning, visualization, and basic statistical 
 
 - 👨‍💻 All of my projects are available at [https://dharshanoj-thrishal-portfolio.vercel.app/](https://dharshanoj-thrishal-portfolio.vercel.app/)
 
-- 💬 Ask me about **Frontend Development**
-
 - 📫 How to reach me **dharshanojthrishal11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
