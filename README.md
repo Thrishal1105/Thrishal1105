@@ -1,29 +1,102 @@
 <h1 align="center">Hi 👋, I'm Dharshanoj Thrishal</h1>
-<h3 align="center">I’m a final-year B.Tech student with a growing passion for data analysis and a good foundation in Python and MySQL. I thrive on uncovering insights from data and transforming raw information into meaningful stories that drive smarter decisions.
+<h3 align="center">
+Software Developer | Python Enthusiast | Full-Stack Learner
+</h3>
 
-With hands-on experience in data cleaning, visualization, and basic statistical analysis. I’ve also explored how AI can streamline workflows and enhance analytical efficiency—fueling my curiosity to build scalable, impact-driven solutions.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thrishal1105&label=Profile%20views&color=0e75b6&style=flat" alt="thrishal1105" /> </p>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 🌱 I’m currently learning "Data Analyst."
-
-- 🤝 I’m looking for help with **Web Development**
-
-- 👨‍💻 All of my projects are available at [https://dharshanoj-thrishal-portfolio.vercel.app/](https://dharshanoj-thrishal-portfolio.vercel.app/)
-
-- 📫 How to reach me **dharshanojthrishal11@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dharshanoj-thrishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharshanoj-thrishal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dharshanoj_thrishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharshanoj_thrishal" height="30" width="40" /></a>
+<p align="center">
+I’m a final-year B.Tech student focused on building scalable software applications using Python and modern web technologies.  
+I care about clean code, performance, and intuitive user experiences while solving real-world problems.
 </p>
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thrishal1105&label=Profile%20views&color=0e75b6&style=flat" alt="thrishal1105" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thrishal1105&show_icons=true&locale=en&layout=compact" alt="thrishal1105" /></p>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thrishal1105&show_icons=true&locale=en" alt="thrishal1105" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thrishal1105&" alt="thrishal1105" /></p>
+## 💼 What I Do
+
+- **Frontend Basics** — React, Next.js, Tailwind CSS, UI/UX  
+- **Backend Development** — Python, REST APIs  
+- **Database Management** — MySQL  
+- **Software Practices** — Clean architecture, debugging, version control  
+
+---
+
+## 🛠 Software Development Tools
+
+- **Languages:** Python, JavaScript  
+- **Frameworks & Libraries:** Flask, Django, React  
+- **Databases:** MySQL  
+- **Developer Tools:** Git, GitHub, VS Code, Postman  
+- **Design & Planning:** Figma, wireframes, system flow diagrams  
+
+---
+
+## 🌱 Currently Improving
+
+- Advanced **Python for backend development**
+- **API design & integration**
+- Full-stack project development
+- Deployment & hosting (Vercel, Netlify, etc...)
+
+---
+
+## 📌 Highlights
+
+- 🔧 Built software projects using Python-based frameworks  
+- 🎯 Focused on clean, maintainable, user-centric code  
+- 🧠 Strong understanding of software fundamentals  
+- 🚀 Actively improving full-stack development skills  
+
+---
+
+## 🤝 Open To
+
+- Software Developer internships & entry-level roles  
+- Python-based backend or full-stack projects  
+- Collaborative software development opportunities  
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** dharshanojthrishal11@gmail.com  
+- 🌐 **Portfolio:** https://dharshanoj-thrishal-portfolio.vercel.app/
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dharshanoj-thrishal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/dharshanoj_thrishal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thrishal1105&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thrishal1105&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thrishal1105" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Write clean Python. Build useful software.”</i>
+</p>
