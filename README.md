@@ -20,7 +20,7 @@ I care about clean code, performance, and intuitive user experiences while solvi
 
 - **Frontend Basics** — React, Next.js, Tailwind CSS, UI/UX  
 - **Backend Development** — Python, REST APIs  
-- **Database Management** — MySQL  
+- **Database Management** — MySQL, MongoDB
 - **Software Practices** — Clean architecture, debugging, version control  
 
 ---
@@ -29,7 +29,7 @@ I care about clean code, performance, and intuitive user experiences while solvi
 
 - **Languages:** Python, JavaScript  
 - **Frameworks & Libraries:** Flask, Django, React  
-- **Databases:** MySQL  
+- **Databases:** MySQL, MongoDB
 - **Developer Tools:** Git, GitHub, VS Code, Postman  
 - **Design & Planning:** Figma, wireframes, system flow diagrams  
 
