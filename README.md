@@ -12,7 +12,7 @@ I care about clean code, performance, and intuitive user experiences while solvi
   <img src="https://komarev.com/ghpvc/?username=thrishal1105&label=Profile%20views&color=0e75b6&style=flat" alt="thrishal1105" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 
 ---
 
