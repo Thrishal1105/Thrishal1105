@@ -98,6 +98,6 @@ I care about clean code, performance, and intuitive user experiences while solvi
 
 ---
 
-<p align="left">
+<!-- <p align="left">
   <i>“Write clean Python. Build useful software.”</i>
-</p>
+</p> -->
