@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharshanoj Thrishal</h1>
 <h3 align="center">
-Software Developer | Python Enthusiast | Full-Stack Learner
+Software Developer 
+  <!-- | Python Enthusiast | Full-Stack Learner -->
 </h3>
 
 <p align="center">
