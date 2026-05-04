@@ -3,11 +3,12 @@
 Software Developer 
   <!-- | Python Enthusiast | Full-Stack Learner -->
 </h3>
-
+<!--
 <p align="center">
 I’m a final-year B.Tech student focused on building scalable software applications using Python and modern web technologies.  
 I care about clean code, performance, and intuitive user experiences while solving real-world problems.
 </p>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thrishal1105&label=Profile%20views&color=0e75b6&style=flat" alt="thrishal1105" />
@@ -17,14 +18,15 @@ I care about clean code, performance, and intuitive user experiences while solvi
 
 ---
 
-## 💼 What I Do
+<!-- ## 💼 What I Do
 
 - **Frontend Basics** — React, Next.js, Tailwind CSS, UI/UX  
 - **Backend Development** — Python, REST APIs  
 - **Database Management** — MySQL, MongoDB
 - **Software Practices** — Clean architecture, debugging, version control  
 
----
+--- 
+-->
 
 ## 🛠 Software Development Tools
 
@@ -36,14 +38,15 @@ I care about clean code, performance, and intuitive user experiences while solvi
 
 ---
 
-## 🌱 Currently Improving
+<!---## 🌱 Currently Improving
 
 - Advanced **Python for backend development**
 - **API design & integration**
 - Full-stack project development
 - Deployment & hosting (Vercel, Netlify, etc...)
 
----
+--- 
+-->
 
 ## 📌 Highlights
 
